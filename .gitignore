@@ -1,0 +1,8 @@
+*.csv
+data/
+
+*.json
+case-study-ds-sa.json
+
+.ipynb_checkpoints
+__pycache__
